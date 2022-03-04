@@ -1,0 +1,13 @@
+.container-50-50 {
+  width: 50%;
+  display: inline-block;
+  padding: 0 40px;
+  border-right: 1px solid rgba(0, 0, 0, 0.25);
+  border-left: 1px solid rgba(0, 0, 0, 0.25);
+  height: 100vh;
+}
+
+.page {
+  display: flex;
+  flex-direction: row;
+}
